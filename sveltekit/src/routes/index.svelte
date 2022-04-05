@@ -1,2 +1,8 @@
-<h1 class="text-4xl text-zinc-50">Welcome to SvelteKit nalga</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Nav from "./../components/Nav.svelte";
+</script>
+
+<div>
+    <Nav />
+    
+</div>
