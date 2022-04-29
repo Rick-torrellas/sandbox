@@ -1,4 +1,3 @@
-
     <a href="/" class=" text-gray-500 ml-32">
         <i class="fa-solid fa-video "></i>
     </a>

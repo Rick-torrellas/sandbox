@@ -2,7 +2,6 @@
     import Nav from "./../components/Nav.svelte";
 </script>
 
-<div>
+<div >
     <Nav />
-    
 </div>

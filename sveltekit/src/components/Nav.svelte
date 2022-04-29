@@ -2,7 +2,7 @@
     import Nav__State from "./../components/Nav__State.svelte";
 </script>
 
-<div class="container">
+<div class="container fixed">
 <!--     TODO: hay que crear dos verciones de este componente, una cuando esta logeado y otra cuando no. -->
 <!-- Vercion logeado. -->
     <div class="flex place-items-center pt-1">
